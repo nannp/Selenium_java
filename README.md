@@ -1,2 +1,2 @@
 # Selenium_java
-source code học java basic
+source code làm bài tập java basic
